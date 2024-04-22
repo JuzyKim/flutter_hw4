@@ -19,6 +19,6 @@ void main() {
               );
             }
         ),
-        appBar: AppBar(),)
+        appBar: AppBar(title: Text("METANIT.COM")),)
   ));
 }
